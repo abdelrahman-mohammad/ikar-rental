@@ -1,0 +1,37 @@
+{
+    "6774fae05c3ba": {
+        "full_name": "Vuke Vuke",
+        "email": "Vuke@gmail.com",
+        "password": "$2y$12$RrlM0GgXdPE5YCinLeYJ..cnrHaExOXYYK0XSRj4z8K65aIVtw0XG",
+        "is_admin": false,
+        "id": "6774fae05c3ba"
+    },
+    "6774faeb786e2": {
+        "full_name": "vuke vuke",
+        "email": "vuke@gmail.com",
+        "password": "$2y$12$JPRThECBYNXvfJByS5i5q.jrWbtS4.pggePnNZnSHgzJcfSR2OR16",
+        "is_admin": false,
+        "id": "6774faeb786e2"
+    },
+    "67750231180ce": {
+        "full_name": "Admin",
+        "email": "admin@ikarrental.hu",
+        "password": "$2y$12$Y14SqHSNmVwC7Wy0OAwWceXtM4734HDDT5aCgctKsXo5nc0CiTjJK",
+        "is_admin": true,
+        "id": "67750231180ce"
+    },
+    "677515af875c1": {
+        "full_name": "example",
+        "email": "example@gmail.com",
+        "password": "$2y$12$crnK1YrVrFJ\/RYUlQ75LkOPbUAv6lYHmxt0TC4aSBCg6wpfC3Dnsy",
+        "is_admin": false,
+        "id": "677515af875c1"
+    },
+    "67752a479b406": {
+        "full_name": "vuke official",
+        "email": "vukee@gmail.com",
+        "password": "$2y$12$cUsv\/M96jMQlJbCJucxHN.udMc3uQ5Hmqh1YYdmCj90PT0XUl\/GoO",
+        "is_admin": false,
+        "id": "67752a479b406"
+    }
+}

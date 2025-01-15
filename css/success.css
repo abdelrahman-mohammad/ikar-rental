@@ -1,0 +1,82 @@
+/* success.css */
+.success-message {
+  max-width: 600px;
+  margin: 80px auto;
+  text-align: center;
+  background-color: #2a2a2a;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.success-icon {
+  width: 80px;
+  height: 80px;
+  background-color: rgba(255, 184, 0, 0.1);
+  border: 2px solid #ffb800;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  color: #ffb800;
+  margin: 0 auto 30px;
+}
+
+.success-message h1 {
+  color: #ffb800;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.success-message p {
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+.success-message .btn {
+  display: inline-block;
+  padding: 12px 30px;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+/* Animation for the success message */
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.success-message {
+  animation: slideIn 0.5s ease-out;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .success-message {
+    margin: 40px 20px;
+    padding: 30px 20px;
+  }
+
+  .success-icon {
+    width: 60px;
+    height: 60px;
+    font-size: 28px;
+  }
+
+  .success-message h1 {
+    font-size: 24px;
+  }
+
+  .success-message p {
+    font-size: 14px;
+  }
+}

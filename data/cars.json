@@ -1,0 +1,200 @@
+{
+    "2": {
+        "id": "2",
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2020,
+        "transmission": "Automatic",
+        "fuel_type": "Hybrid",
+        "passengers": 5,
+        "daily_price_huf": 17500,
+        "image": "https:\/\/tse4.mm.bing.net\/th?id=OIP.o3apotGrh_6hZRR6erm5VQHaEK&pid=Api"
+    },
+    "4": {
+        "id": "4",
+        "brand": "Volkswagen",
+        "model": "Golf",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 18750,
+        "image": "https:\/\/tse3.mm.bing.net\/th?id=OIP.-cdxZVArVxC7zCnreMCkYgHaE8&pid=Api"
+    },
+    "5": {
+        "id": "5",
+        "brand": "Nissan",
+        "model": "Altima",
+        "year": 2019,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 14500,
+        "image": "https:\/\/tse4.mm.bing.net\/th?id=OIP.aOn8JmM9yvgc5azH9tjDnwHaEK&pid=Api"
+    },
+    "6": {
+        "id": "6",
+        "brand": "Mazda",
+        "model": "3",
+        "year": 2020,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 16800,
+        "image": "https:\/\/tse2.mm.bing.net\/th?id=OIP.DpAKqNoxWrb3kjMbQY-s-AHaEK&pid=Api"
+    },
+    "7": {
+        "id": "7",
+        "brand": "Hyundai",
+        "model": "Elantra",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 15750,
+        "image": "https:\/\/tse2.mm.bing.net\/th?id=OIP.OAiAI0x31TwuqCtoeFZcQgHaE7&pid=Api"
+    },
+    "8": {
+        "id": "8",
+        "brand": "Kia",
+        "model": "Forte",
+        "year": 2020,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 14000,
+        "image": "https:\/\/tse4.mm.bing.net\/th?id=OIP.enjZnzIqiltPpp16YfrVuAHaD6&pid=Api"
+    },
+    "9": {
+        "id": "9",
+        "brand": "Subaru",
+        "model": "Impreza",
+        "year": 2019,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 15500,
+        "image": "https:\/\/tse2.mm.bing.net\/th?id=OIP.Pp9Wz64fhjfFjB1R6l1_1wAAAA&pid=Api"
+    },
+    "10": {
+        "id": "10",
+        "brand": "Chevrolet",
+        "model": "Cruze",
+        "year": 2019,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 14750,
+        "image": "https:\/\/tse3.mm.bing.net\/th?id=OIP.4rpeTkX5kJ2W8NO7qmY4DQHaEK&pid=Api"
+    },
+    "11": {
+        "id": "11",
+        "brand": "Bugatti",
+        "model": "Chiron Super Sport 300+",
+        "year": 2022,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 2,
+        "daily_price_huf": 2500000,
+        "image": "https:\/\/tse3.mm.bing.net\/th?id=OIP.WPjhA79L7MkDh3OPt1vNTAHaEK&pid=Api"
+    },
+    "12": {
+        "id": "12",
+        "brand": "Koenigsegg",
+        "model": "Jesko Absolut",
+        "year": 2023,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 2,
+        "daily_price_huf": 2200000,
+        "image": "https:\/\/tse2.mm.bing.net\/th?id=OIP.hq8BYkN6ONQO0UfxTWMUIgHaEK&pid=Api"
+    },
+    "13": {
+        "id": "13",
+        "brand": "Pagani",
+        "model": "Huayra R",
+        "year": 2023,
+        "transmission": "Sequential",
+        "fuel_type": "Petrol",
+        "passengers": 2,
+        "daily_price_huf": 2100000,
+        "image": "https:\/\/tse1.mm.bing.net\/th?id=OIP.cWVm1ZCr2iYSO7bI76qJkwHaEK&pid=Api"
+    },
+    "14": {
+        "id": "14",
+        "brand": "McLaren",
+        "model": "Speedtail",
+        "year": 2022,
+        "transmission": "Automatic",
+        "fuel_type": "Hybrid",
+        "passengers": 3,
+        "daily_price_huf": 1950000,
+        "image": "https:\/\/tse3.mm.bing.net\/th?id=OIP.tSRvLwiGGRvT0UBZ4x6IGQHaE7&pid=Api"
+    },
+    "15": {
+        "id": "15",
+        "brand": "Aston Martin",
+        "model": "Valkyrie",
+        "year": 2023,
+        "transmission": "Automatic",
+        "fuel_type": "Hybrid",
+        "passengers": 2,
+        "daily_price_huf": 2300000,
+        "image": "https:\/\/tse2.mm.bing.net\/th?id=OIP.V1parXdutcyLqn7KtBIwiwHaEK&pid=Api"
+    },
+    "16": {
+        "id": "16",
+        "brand": "Rimac",
+        "model": "Nevera",
+        "year": 2023,
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": 2,
+        "daily_price_huf": 2000000,
+        "image": "https:\/\/tse3.mm.bing.net\/th?id=OIP.QpMIxUuvSFAO2Clm5kKAJwHaEK&pid=Api"
+    },
+    "17": {
+        "id": "17",
+        "brand": "Hennessey",
+        "model": "Venom F5",
+        "year": 2023,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": 2,
+        "daily_price_huf": 1900000,
+        "image": "https:\/\/tse3.mm.bing.net\/th?id=OIP.OtbPtpr0ey4pgV6c0eMdWAHaEK&pid=Api"
+    },
+    "18": {
+        "id": "18",
+        "brand": "SSC",
+        "model": "Tuatara",
+        "year": 2023,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 2,
+        "daily_price_huf": 1850000,
+        "image": "https:\/\/tse1.mm.bing.net\/th?id=OIP.xjbDDfexCRIae_2l57isVQHaEK&pid=Api"
+    },
+    "19": {
+        "id": "19",
+        "brand": "Pininfarina",
+        "model": "Battista",
+        "year": 2023,
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": 2,
+        "daily_price_huf": 1800000,
+        "image": "https:\/\/tse2.mm.bing.net\/th?id=OIP.V-RUOrlKUr1f3C3_prDXuwHaEK&pid=Api"
+    },
+    "20": {
+        "id": "20",
+        "brand": "Lotus",
+        "model": "Evija",
+        "year": 2023,
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": 2,
+        "daily_price_huf": 1750000,
+        "image": "https:\/\/tse3.mm.bing.net\/th?id=OIP.hzZUQyQW0dxvRYQj2Bm0SQHaEx&pid=Api"
+    }
+}
